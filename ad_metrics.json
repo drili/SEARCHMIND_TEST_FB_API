@@ -1,0 +1,343 @@
+{
+  "adAccount": {
+    "id": "act_25809750",
+    "name": "DESIGNA annoncekonto",
+    "account_status": 1,
+    "business_name": "DESIGNA",
+    "currency": "DKK",
+    "timezone_name": "Europe/Copenhagen",
+    "account_id": "25809750",
+    "business": {
+      "id": "580685815711760",
+      "name": "Designa"
+    },
+    "capabilities": [
+      "CAN_CREATE_CALL_ADS",
+      "CAN_SEE_GROWTH_OPPORTUNITY_DATA",
+      "ENABLE_IA_RECIRC_AD_DISPLAY_FORMAT",
+      "CAN_USE_MOBILE_EXTERNAL_PAGE_TYPE",
+      "CAN_USE_FB_FEED_POSITION_IN_VIDEO_VIEW_15S",
+      "ENABLE_BIZ_DISCO_ADS",
+      "ENABLE_BRAND_OBJECTIVES_FOR_BIZ_DISCO_ADS",
+      "ENABLE_DIRECT_REACH_FOR_BIZ_DISCO_ADS",
+      "ENABLE_DYNAMIC_ADS_ON_IG_STORIES_ADS",
+      "ENABLE_IG_STORIES_ADS_PPE_OBJECTIVE",
+      "ENABLE_IG_STORIES_ADS_MESSENGER_DESTINATION",
+      "ENABLE_PAC_FOR_BIZ_DISCO_ADS",
+      "CAN_USE_FB_INSTREAM_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_FB_STORY_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_AN_INSTREAM_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_IG_STORY_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_FB_IA_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_IG_FEED_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_IG_EXPLORE_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_AN_CLASSIC_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_AN_REWARD_VIDEO_POSITION_IN_VIDEO_VIEW_15S",
+      "CAN_USE_REACH_AND_FREQUENCY",
+      "VIEW_TAGS",
+      "CAN_USE_WCA_V3_UI",
+      "CAN_USE_RECURRING_BUDGET",
+      "HAS_USED_L3_BUDGET",
+      "HAS_VALID_PAYMENT_METHODS",
+      "CAN_USE_LINK_CLICK_BILLING_EVENT",
+      "CAN_SEE_NEW_CONVERSION_WINDOW_NUX",
+      "ADS_INSTREAM_INTERFACE_INTEGRITY",
+      "ADS_INSTREAM_LINK_CLICK",
+      "ADS_INSTREAM_LINK_CLICK_IMAGE",
+      "ADS_IN_OBJECTIVES_DEPRECATION",
+      "MESSENGER_INBOX_ADS_PRODUCT_CATALOG_SALES",
+      "CAN_SHOW_MESSENGER_DUPLICSTION_UPSELL",
+      "ALLOW_INSTREAM_ONLY_FOR_REACH",
+      "ADS_INSTREAM_VIDEO_PLACEMENT_CONVERSIONS",
+      "CAN_CREATE_INSTAGRAM_EXPLORE_ADS",
+      "ALLOW_INSTREAM_VIDEOS_PLACEMENT_ONLY",
+      "ALLOW_INSTREAM_NON_INTERRUPTIVE_LEADGEN",
+      "INSTREAM_VIDEO_AD_DESKTOP_CONVERSION_AD_PREVIEW",
+      "ALLOW_INSTREAM_ONLY_FOR_BRAND_AWARENESS_AUCTION",
+      "ALLOW_SUGGESTED_VIDEOS_PLACEMENT_ONLY",
+      "WHATSAPP_DESTINATION_ADS",
+      "CTM_ADS_CREATION_CLICK_TO_DIRECT",
+      "CTW_ADS_ENABLE_IG_FEED_PLACEMENT",
+      "CTW_ADS_FOR_NON_MESSAGES_OBJECTIVE",
+      "CTW_ADS_TRUSTED_TIER_ADVERTISER",
+      "ADS_PLACEMENT_MARKETPLACE",
+      "ADNW_DISABLE_INSTREAM_AND_WEB_PLACEMENT",
+      "CAN_SEE_HANDRAISE_PROGRAM",
+      "CAN_CHANGE_BILLING_THRESHOLD",
+      "CAN_USE_APP_EVENT_AVERAGE_COST_BIDDING",
+      "CAN_USE_LEAD_GEN_AVERAGE_COST_BIDDING",
+      "ADS_VALUE_OPTIMIZATION_DYNAMIC_ADS_1D",
+      "ADS_DELIVERY_INSIGHTS_IN_BIDDING_PRESET_EXPERIMENT",
+      "ADS_DELIVERY_INSIGHTS_OPTIMIZATION_PRESET",
+      "CAN_SEE_APP_AD_EVENTS",
+      "CAN_SEE_NEW_STANDARD_EVENTS_BETA",
+      "CAN_SEE_VCK_HOLIDAY_TEMPLATES",
+      "ENABLE_DCO_FOR_FB_STORY_ADS",
+      "CAN_USE_IG_EXPLORE_GRID_HOME_PLACEMENT",
+      "CAN_USE_IG_EXPLORE_HOME_IN_REACH_AND_FREQUENCY",
+      "CAN_USE_IG_EXPLORE_HOME_POST_ENGAGEMENT_MESSAGES",
+      "CAN_USE_IG_SEARCH_PLACEMENT",
+      "CAN_USE_IG_REELS_PAC_CAROUSEL",
+      "CAN_USE_IG_REELS_POSITION",
+      "CAN_SEE_CONVERSION_LIFT_SUMMARY",
+      "CAN_USE_IG_PROFILE_FEED_POSITION",
+      "CAN_USE_IG_REELS_REACH_AND_FREQUENCY",
+      "CAN_USE_IG_SHOP_TAB_PAC",
+      "CAN_SEE_LEARNING_STAGE",
+      "ENABLE_WEBSITE_CONVERSIONS_FOR_FB_STORY_ADS",
+      "ENABLE_MESSENGER_INBOX_VIDEO_ADS",
+      "ENABLE_VIDEO_VIEWS_FOR_FB_STORY_ADS",
+      "ENABLE_LINK_CLICKS_FOR_FB_STORY_ADS",
+      "ENABLE_REACH_FOR_FB_STORY_ADS",
+      "CAN_USE_CALL_TO_ACTION_LINK_IMPORT_EXPORT",
+      "ADS_INSTREAM_VIDEO_ENABLE_SLIDE_SHOW",
+      "ALLOW_INSTREAM_VIDEOS_PLACEMENT_ONLY_IN_VV_REACH_AND_FREQUENCY",
+      "ENABLE_MOBILE_APP_INSTALLS_FOR_FB_STORY_ADS",
+      "ENABLE_LEAD_GEN_FOR_FB_STORY_ADS",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_REACH",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_VIDEO_VIEW",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_STORE_VISIT",
+      "CAN_USE_FB_STORIES_POSITION_IN_MRC",
+      "ENABLE_MOBILE_APP_ENGAGEMENT_FOR_FB_STORY_ADS",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_BRAND_AWARENESS",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_APP_INSTALLS",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_LEAD_GENERATION",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_MESSAGE",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_PAGE_LIKE",
+      "CAN_USE_FB_MKT_PLACE_POSITION_IN_POST_ENGAGEMENT",
+      "RF_ALLOW_MARKETPLACE_ACCOUNT",
+      "RF_ALLOW_SEARCH_ACCOUNT",
+      "VERTICAL_VIDEO_PAC_INSTREAM_UPSELL",
+      "IX_COLLECTION_ENABLED_FOR_BAO_AND_REACH",
+      "ADS_BM_REQUIREMENTS_OCT_15_RELEASE",
+      "ENABLE_POST_ENGAGEMENT_FOR_FB_STORY",
+      "ENBABLE_CATALOG_SALES_FOR_FB_STORY",
+      "CAN_USE_WHATSAPP_DESTINATION_ON_LINK_CLICKS_AND_CONVERSIONS",
+      "CAN_USE_WHATSAPP_DESTINATION_ON_CONVERSIONS",
+      "IS_IN_IG_EXISTING_POST_CTA_DEFAULTING_EXPERIMENT",
+      "IS_IN_SHORT_WA_LINK_CTWA_UNCONV_TRAFFIC_EXPERIMENT",
+      "IS_IN_ODAX_EXPERIENCE",
+      "IS_IN_REACH_BRAND_AWARENESS_WHATSAPP_L1_DESTINATION_EXPERIMENT",
+      "IS_IN_VIDEO_VIEWS_WHATSAPP_L1_DESTINATION_EXPERIMENT",
+      "IS_IN_WHATSAPP_DESTINATION_DEFAULTING_EXPERIMENT",
+      "CAN_USE_MARKETPLACE_DESKTOP",
+      "ADS_MERCHANT_OVERLAYS_DEPRECATION",
+      "CONNECTIONS_DEPRECATION_V2",
+      "CAN_SEE_HEC_AM_FLOW",
+      "CAN_SEE_POLITICAL_FLOW",
+      "CBO_DEFAULT_ON_EXPERIMENT_ONE",
+      "ADS_INSTREAM_PLACEMENT_CATALOG_SALES",
+      "CAN_USE_CONVERSATIONS_OPTIMIZATION",
+      "ENABLE_THRUPLAY_OPTIMIZATION_MESSENGER_STORY_ADS",
+      "CAN_USE_IG_STORY_POLLS_PAC_CREATION",
+      "IOS14_CEO_CAMPAIGN_CREATION",
+      "DIGITAL_CIRCULAR_ADS",
+      "CAN_SEE_SAFR_V3_FLOW",
+      "CAN_USE_FB_REELS_POSITION",
+      "CAN_USE_ADS_ON_FB_REELS_POSITION",
+      "CAN_USE_FB_REELS_AUTO_PLACEMENT",
+      "ENABLE_FB_REELS_CREATION_PAC_ADS",
+      "ENABLE_FB_REELS_CREATION_DCO_ADS",
+      "ENABLE_FB_REELS_POSTLOOP_CREATION_DCO_ADS",
+      "ENABLE_FB_REELS_POSTLOOP_CREATION_PAC_ADS",
+      "RF_CPA_BILLING_DEPRECATION_PHASE_2",
+      "ENABLE_APP_INSTALL_CUSTOM_PRODUCT_PAGES",
+      "ADS_RF_FB_REELS_PLACEMENT",
+      "REELS_DM_ADS_ENABLE_REACH_AND_FREQUENCY",
+      "ELIGIBLE_FOR_TEXT_GEN"
+    ],
+    "created_time": "2008-10-24T14:44:29+0200",
+    "funding_source": "5598576296920483"
+  },
+  "metrics": {
+    "period": "01/08/2025 - 25/08/2025",
+    "forbrug": 188529.99,
+    "revenue": 0,
+    "roas": 0,
+    "clicks": 59824,
+    "cpc": 3.15
+  },
+  "rawInsights": {
+    "data": [
+      {
+        "spend": "188529.99",
+        "clicks": "59824",
+        "cpc": "3.151411",
+        "actions": [
+          {
+            "action_type": "offsite_complete_registration_add_meta_leads",
+            "value": "439",
+            "7d_click": "439"
+          },
+          {
+            "action_type": "page_engagement",
+            "value": "598111",
+            "1d_view": "550387",
+            "7d_click": "47724"
+          },
+          {
+            "action_type": "click_to_call_native_call_placed",
+            "value": "2",
+            "7d_click": "2"
+          },
+          {
+            "action_type": "landing_page_view",
+            "value": "7407",
+            "7d_click": "7407"
+          },
+          {
+            "action_type": "app_site_visit",
+            "value": "36",
+            "7d_click": "36"
+          },
+          {
+            "action_type": "omni_landing_page_view",
+            "value": "7443",
+            "7d_click": "7443"
+          },
+          {
+            "action_type": "post_engagement",
+            "value": "598026",
+            "1d_view": "550387",
+            "7d_click": "47639"
+          },
+          {
+            "action_type": "onsite_web_view_content",
+            "value": "8876",
+            "1d_view": "2734",
+            "7d_click": "6142"
+          },
+          {
+            "action_type": "comment",
+            "value": "41",
+            "7d_click": "41"
+          },
+          {
+            "action_type": "offsite_content_view_add_meta_leads",
+            "value": "9315",
+            "1d_view": "2734",
+            "7d_click": "6581"
+          },
+          {
+            "action_type": "lead",
+            "value": "468",
+            "1d_view": "17",
+            "7d_click": "451"
+          },
+          {
+            "action_type": "view_content",
+            "value": "8876",
+            "1d_view": "2734",
+            "7d_click": "6142"
+          },
+          {
+            "action_type": "offsite_search_add_meta_leads",
+            "value": "439",
+            "7d_click": "439"
+          },
+          {
+            "action_type": "onsite_conversion.post_save",
+            "value": "122",
+            "7d_click": "122"
+          },
+          {
+            "action_type": "onsite_web_lead",
+            "value": "29",
+            "1d_view": "17",
+            "7d_click": "12"
+          },
+          {
+            "action_type": "post",
+            "value": "48",
+            "7d_click": "48"
+          },
+          {
+            "action_type": "onsite_web_app_view_content",
+            "value": "8876",
+            "1d_view": "2734",
+            "7d_click": "6142"
+          },
+          {
+            "action_type": "like",
+            "value": "85",
+            "7d_click": "85"
+          },
+          {
+            "action_type": "link_click",
+            "value": "40949",
+            "7d_click": "40949"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_lead",
+            "value": "29",
+            "1d_view": "17",
+            "7d_click": "12"
+          },
+          {
+            "action_type": "onsite_conversion.lead_grouped",
+            "value": "439",
+            "7d_click": "439"
+          },
+          {
+            "action_type": "video_view",
+            "value": "554619",
+            "1d_view": "550387",
+            "7d_click": "4232"
+          },
+          {
+            "action_type": "click_to_call_call_confirm",
+            "value": "6",
+            "7d_click": "6"
+          },
+          {
+            "action_type": "call_confirm_grouped",
+            "value": "6",
+            "7d_click": "6"
+          },
+          {
+            "action_type": "omni_view_content",
+            "value": "8876",
+            "1d_view": "2734",
+            "7d_click": "6142"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_view_content",
+            "value": "8876",
+            "1d_view": "2734",
+            "7d_click": "6142"
+          },
+          {
+            "action_type": "post_reaction",
+            "value": "2247",
+            "7d_click": "2247"
+          },
+          {
+            "action_type": "offsite_conversion.fb_pixel_custom",
+            "value": "4208",
+            "1d_view": "1713",
+            "7d_click": "2495"
+          },
+          {
+            "action_type": "offsite_conversion.custom.419927869046611",
+            "value": "12",
+            "1d_view": "10",
+            "7d_click": "2"
+          },
+          {
+            "action_type": "post_interaction_gross",
+            "value": "2458"
+          }
+        ],
+        "date_start": "2025-08-01",
+        "date_stop": "2025-08-25"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "MAZDZD",
+        "after": "MAZDZD"
+      }
+    }
+  }
+}

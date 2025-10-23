@@ -1,0 +1,24 @@
+{
+  "name": "fb-api-adaccounts-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch Facebook ad accounts using the Graph API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "metrics": "node get-metrics.js"
+  },
+  "keywords": [
+    "facebook",
+    "api",
+    "ad-accounts",
+    "graph-api",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
